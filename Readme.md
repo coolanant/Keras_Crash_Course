@@ -70,3 +70,13 @@ Google Cloud
 Google CLoud Machine Learning -> machine Learning Engine Api
 cloud.google.com/sdk/downloads ->interactive installer
 gcloud init
+
+
+### Translation Invariance
+recognize image irrespective of posn - Convolution layer
+Sliding Window
+
+Rough location
+Convolution -  Max Pooling - Dropout - Dense
+
+Dropout-> learn faster
