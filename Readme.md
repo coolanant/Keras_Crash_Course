@@ -24,7 +24,7 @@ tensorflow - backend
 3. testing
 4. Evaluation
 
-OR Colab.Google.com
+**OR Colab.Google.com**
 
 ## Tips
 
