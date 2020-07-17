@@ -24,6 +24,8 @@ tensorflow - backend
 3. testing
 4. Evaluation
 
+OR Colab.Google.com
+
 ## Tips
 
 1. Default are best practices
