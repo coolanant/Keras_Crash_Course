@@ -1,3 +1,4 @@
+# !pip install face_recognition
 import PIL.Image
 import PIL.ImageDraw
 import face_recognition
@@ -25,4 +26,10 @@ for face_location in face_locations:
     draw.rectangle([left, top, right, bottom], outline="red")
 
 # Display the image on screen
-pil_image.show()
+pil_image.save("people2.jpg")
+
+# from PIL import Image               # to load images
+# from IPython.display import display # to display images
+
+# pil_im = Image.open("people2.jpg")
+# display(pil_im)
